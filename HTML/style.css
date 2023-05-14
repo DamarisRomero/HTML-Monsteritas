@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(237, 228, 242);
+    /* Letras de las letras! */
+    color: rgb(139, 92, 202);
+    font-family: font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+p {
+    color: rgb(21, 51, 151);
+}
+
+/* Para agregar clase ponemos un ( . ) antes del nombre*/ 
+.titulo {
+    color:rgb(15, 93, 100);
+}
+/* Si no lleva punto,afectas todos los elementos */
+img{
+    width: 500px;
+    height: 500px;
+}
+
+.img-2{
+    width: 1000px;
+}
+
+
